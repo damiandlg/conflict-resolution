@@ -1,1 +1,1 @@
-# conflict-resolution
+# Run-Buddy
